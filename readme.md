@@ -2,9 +2,6 @@
 
 This is my first project
 
-*This
-*Is
-*A
-*List
+## I don't need no stinkin' list!
 
 
